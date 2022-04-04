@@ -1,0 +1,61 @@
+
+
+*{
+    text-align: right;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2016/12/18/02/35/paper-1914901__340.jpg);
+    background-size: auto ;
+    
+}
+
+
+h1 
+{
+    color : #550000;
+    text-align: center;
+    border: 5px #D46A6A solid;
+    cursor: pointer;
+}
+
+p
+{
+    color : #A23645 ;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 200%;
+
+}
+
+img{
+    float: left;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext{
+    border:  #A23645 dashed;
+}
+
+.active{
+    color: #550000;
+}
+
+#div1{
+    background-color: rgba(212, 106, 106, 0.2);
+}
+
+

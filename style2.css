@@ -1,0 +1,28 @@
+
+
+h1{
+    color: #550000;
+    text-align: center;
+    border: solid 5px #D46A6A;
+
+}
+
+.boxmodel {
+    border: 5px hsl(0, 55%, 62%) solid;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 0px 20px;
+    width : 33px;
+    height: 33px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+span{
+    font-size: 5em;
+}
+
